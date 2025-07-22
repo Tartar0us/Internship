@@ -1,0 +1,20 @@
+{
+  "name": "trae",
+  "version": "1.0.0",
+  "main": "tetris.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tartar0us/my-little-webbb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tartar0us/my-little-webbb/issues"
+  },
+  "homepage": "https://github.com/Tartar0us/my-little-webbb#readme",
+  "description": ""
+}
